@@ -1,0 +1,118 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}  
+.header{
+    display: flex;
+    background-color: #393958;
+}
+.nav{
+    padding-top: 35px;
+    margin-left: 23%;
+}
+a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: #fff;
+}
+.logo{
+    padding-top: 20px;
+}
+.order-text h2{
+    margin-left: 45%;
+    padding-top: 20px;
+    color: #393958;
+}
+.text-div{
+    width: 50%;
+    padding-top: 90px;
+    color: #22223d;
+}
+.divs{
+    margin-left: 50px;
+}
+.row{
+    display: flex;
+    padding-left: 140px;
+    margin-top: 40px;
+}
+.col{
+    width: 50%;
+    position: relative;
+    overflow: hidden;
+}
+.col:hover .col-text{
+    bottom: 0;
+}
+.col-img{
+    width: 100%;
+}
+.col-text{
+    background-color: #5d608ab8;
+    color: #fff;
+    text-align: center;
+    width: 350px;
+    height: 400px;
+    position: absolute;
+    bottom: -300px;
+    transition: 3s;
+    font-size: 13px;
+}
+.col-text h1{
+    padding-top: 0px;
+}
+.col-text h3{
+    padding-top: 80px;
+}
+.col-text a{
+    background-color: #22223d;
+    border-radius: 20px;
+    padding: 10px 10px;
+}
+.footer-flex{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #393958;
+    color: #fff;
+    padding: 40px 40px;
+}
+.imgg-div{
+    width: 25%;
+    margin-left: 30px;
+}
+.text-divv{
+    width: 30%;
+}
+.text-div-two{
+    width: 30%;
+    padding-left: 30px;
+}
+.text-div-two h4{
+    padding-left: 30px;
+}
+.inputs-div{
+    width: 20%;
+}
+.footerimg{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.input{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.under_a{
+    font-size: 14px;
+    margin-left: 10px;
+    border: 1px solid #fff;
+    padding: 10px 10px;
+    border-radius: 10px;
+}

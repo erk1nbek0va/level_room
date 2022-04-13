@@ -1,0 +1,105 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.3em;
+    background-color: rgb(255, 255, 255);
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}  
+.header{
+    display: flex;
+    background-color: #393958;
+}
+.nav{
+    padding-top: 35px;
+    margin-left: 23%;
+}
+a{
+    text-decoration: none;
+    padding-left: 30px;
+    color: #fff;
+}
+.logo{
+    padding-top: 20px;
+}
+.order-text h2{
+    padding-top: 20px;
+    color: #393958;
+}
+.text-div{
+    font-size: 13px;
+    width: 50%;
+    padding-top: 70px;
+    color: #22223d;
+}
+.text-div a{
+    margin-top: 5%;
+    background-color: #22223d;
+    padding: 10px 10px;
+    border-radius: 20px;
+}
+.text-div p{
+    width: 80%;
+    padding-bottom: 10px;
+}
+.under-top-div{
+    padding-top: 20px;
+}
+.divvs{
+    padding-top: 100px;
+}
+.bigs{
+    padding-top: 90px
+}
+.big-divs{
+    display: flex;
+    box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.185);
+    border-radius: 20px;
+}
+.div-2{
+    width: 45%;
+    padding-left: 70px;
+}
+.footer-flex{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #393958;
+    color: #fff;
+    padding: 40px 40px;
+}
+.imgg-div{
+    width: 25%;
+    margin-left: 30px;
+}
+.text-divv{
+    width: 30%;
+}
+.text-div-two{
+    width: 30%;
+    padding-left: 30px;
+}
+.text-div-two h4{
+    padding-left: 30px;
+}
+.inputs-div{
+    width: 20%;
+}
+.footerimg{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.input{
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+.under_a{
+    font-size: 14px;
+    margin-left: 10px;
+    border: 1px solid #fff;
+    padding: 10px 10px;
+    border-radius: 10px;
+}
